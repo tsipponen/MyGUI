@@ -1,0 +1,16 @@
+c:\users\tino\documents\visual studio 2015\Projects\MyGUI\MyGUI\bin\Debug\MyGUI.exe.config
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\bin\Debug\MyGUI.exe
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\bin\Debug\MyGUI.pdb
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.csprojResolveAssemblyReference.cache
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\App.g.cs
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI_MarkupCompile.cache
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI_MarkupCompile.lref
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MainWindow.baml
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.g.resources
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.Properties.Resources.resources
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.csproj.GenerateResource.Cache
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.exe
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\MyGUI.pdb
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\Input.g.cs
+C:\Users\Tino\Documents\Visual Studio 2015\Projects\MyGUI\MyGUI\obj\Debug\Input.baml
